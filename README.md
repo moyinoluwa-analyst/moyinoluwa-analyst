@@ -28,5 +28,4 @@ Contact
 Email: odeyemimoyinoluwa87@gmail.com
 
 
-- ⚡ Fun fact: ...
--->
+
