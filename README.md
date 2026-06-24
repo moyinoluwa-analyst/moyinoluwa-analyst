@@ -23,6 +23,7 @@ Customer Personality Analysis (Power BI)
 * Developed marketing analytics dashboards
 * Analyzed customer spending behavior and campaign performance
 
+Linkedln : www.linkedin.com/in/moyinoluwa-odey-emi-1b044b25b
 Contact
 Email: odeyemimoyinoluwa87@gmail.com
 
